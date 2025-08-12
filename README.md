@@ -21,7 +21,7 @@
 - **Forensics:** `binwalk` · `exiftool` · `steghide` · `volatility` · `wireshark`  
 - **Pentesting:** `nmap` · `burpsuite` · `metasploit`Aircrack-ng  
 - **Programming:** Python · C++ · Bash  
-- **CTF Platforms:** picoCTF · TryHackMe · HackTheBox · CTF.org · Hack The Box · RingZer0ctf · Google CTF · Pwnable.kr
+- **CTF Platforms:** picoCTF · TryHackMe · HackTheBox · ctftime.org · Hack The Box · RingZer0ctf · Google CTF · Pwnable.kr
 
 ---
 
