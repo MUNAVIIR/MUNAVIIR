@@ -19,9 +19,9 @@
 
 ## 🛠️ Skills & Tools
 - **Forensics:** `binwalk` · `exiftool` · `steghide` · `volatility` · `wireshark`  
-- **Pentesting:** `nmap` · `burpsuite` · `metasploit`  
+- **Pentesting:** `nmap` · `burpsuite` · `metasploit`Aircrack-ng  
 - **Programming:** Python · C++ · Bash  
-- **CTF Platforms:** picoCTF · TryHackMe · HackTheBox · CTF.org  
+- **CTF Platforms:** picoCTF · TryHackMe · HackTheBox · CTF.org · Hack The Box · RingZer0ctf · Google CTF · Pwnable.kr
 
 ---
 
@@ -29,7 +29,8 @@
 - CompTIA Security+  
 - Advanced Reverse Engineering  
 - Network Traffic Analysis  
-- Web Application Security  
+- Web Application Security
+- offensive security 
 
 ---
 
@@ -40,7 +41,8 @@
 
 ## 🏆 CTF Participation
 - Solved challenges in steganography, pcap analysis, cryptography, and binary exploitation  
-- Active player on **picoCTF**, **TryHackMe**, **HackTheBox**, and **CTF.org**  
+- Active player on **picoCTF**, **TryHackMe**, **HackTheBox**, and **CTF.org**,** RingZer0ctf**,Google CTF,**Pwnable.kr**
+
 
 ---
 
