@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Munavar MA  
+# 👋 Hi, I'm Munavar M A  
 
 💻 **Cybersecurity Enthusiast** | 🔍 **CTF Player** | 🛡 **Future Security Professional**  
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Bachelor’s in Sociology**  
+- 🎓 **Bachelor’s in Sociology**
+-  🎓 currently pursuing **Bachelor’s in computer application
 - 📚 Currently pursuing **CompTIA Security+**  
 - 🐍 Learning **Python** & **C++**  
 - 🕵️ Exploring:
@@ -18,10 +19,24 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Forensics:** `binwalk` · `exiftool` · `steghide` · `volatility` · `wireshark`  
-- **Pentesting:** `nmap` · `burpsuite` · `metasploit`Aircrack-ng  
-- **Programming:** Python · C++ · Bash  
-- **CTF Platforms:** picoCTF · TryHackMe · HackTheBox · ctftime.org · Hack The Box · RingZer0ctf · Google CTF · Pwnable.kr
+
+Web Application Security Testing
+
+Network Penetration Testing
+
+Vulnerability Assessment & Exploitation
+
+Digital Forensics & Incident Analysis
+
+Red Team Methodologies
+
+OSINT & Reconnaissance Techniques
+
+Tools & Technologies:
+Binwalk, ExifTool, Steghide, Volatility, Wireshark, Nmap, Burp Suite, Metasploit, Aircrack-ng, Python, C++, Bash
+
+Platforms:
+Hack The Box, TryHackMe, picoCTF, CTFtime, RingZer0CTF, Google CTF, Pwnable.kr
 
 ---
 
@@ -30,7 +45,8 @@
 - Advanced Reverse Engineering  
 - Network Traffic Analysis  
 - Web Application Security
-- offensive security 
+- offensive security
+- web exploiting via bug bounty hunting
 
 ---
 
