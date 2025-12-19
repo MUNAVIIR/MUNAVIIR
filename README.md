@@ -6,14 +6,14 @@
 
 ## 🚀 About Me
 - 🎓 **Bachelor’s in Sociology**
--  🎓 currently pursuing **Bachelor’s in computer application
+-  🎓 currently pursuing *Bachelor’s in computer application*
 - 📚 Currently pursuing **CompTIA Security+**  
-- 🐍 Learning **Python** & **C++**  
-- 🕵️ Exploring:
-  - Reverse Engineering  
-  - Cryptography  
-  - Binary Exploitation  
-  - Web Exploitation  
+- 🐍 Learning **Python,css,jawa**  
+- 🕵️ Exploring:  
+  - CTF  
+  - Malware analyzing 
+  - Web Exploitation
+  - API testing 
   - Bug Bounty Hunting  
 
 ---
@@ -33,7 +33,7 @@ Red Team Methodologies
 OSINT & Reconnaissance Techniques
 
 Tools & Technologies:
-Binwalk, ExifTool, Steghide, Volatility, Wireshark, Nmap, Burp Suite, Metasploit, Aircrack-ng, Python, C++, Bash
+Nmap, Burp Suite, Metasploit, Aircrack-ng, Python, C++, BashBinwalk, ExifTool, Steghide, Volatility, Wireshark
 
 Platforms:
 Hack The Box, TryHackMe, picoCTF, CTFtime, RingZer0CTF, Google CTF, Pwnable.kr
@@ -42,7 +42,7 @@ Hack The Box, TryHackMe, picoCTF, CTFtime, RingZer0CTF, Google CTF, Pwnable.kr
 
 ## 📚 Currently Learning
 - CompTIA Security+  
-- Advanced Reverse Engineering  
+- Advanced malware analyzing  
 - Network Traffic Analysis  
 - Web Application Security
 - offensive security
