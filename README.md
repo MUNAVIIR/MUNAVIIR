@@ -48,7 +48,10 @@ Hack The Box, TryHackMe, picoCTF, CTFtime, RingZer0CTF, Google CTF, Pwnable.kr
 - offensive security
 - web exploiting via bug bounty hunting
 
----
+## projects
+- Build my own SOC Home Lab (SIEM)
+- Create a Phishing Attack Simulator
+- Set-up your own Host-based Intrusion Detection System (HIDS)
 
 ## 📊 GitHub Stats
 ![Munavar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUNAVIIR&show_icons=true&theme=radical)
@@ -56,7 +59,7 @@ Hack The Box, TryHackMe, picoCTF, CTFtime, RingZer0CTF, Google CTF, Pwnable.kr
 ---
 
 ## 🏆 CTF Participation
-- Solved challenges in steganography, pcap analysis, cryptography, and binary exploitation  
+- just cooperated with different ctf backend teams and participation also   
 - Active player on **picoCTF**, **TryHackMe**, **HackTheBox**, and **CTF.org**,** RingZer0ctf**,Google CTF,**Pwnable.kr**
 
 
